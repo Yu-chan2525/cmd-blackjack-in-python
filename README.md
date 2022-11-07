@@ -1,6 +1,6 @@
 # cmd-blackjack-in-python
 
-#Japanese comments only
+#Japanese comments only  #python3.7
 
 コマンドプロンプト上で実行可能な、タイピングとブラックジャックとRPGゲームがあります。
 
